@@ -1,1 +1,1 @@
-#Praticing Data Structures and Algorithms
+Praticing Data Structures and Algorithms
