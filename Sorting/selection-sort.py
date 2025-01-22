@@ -23,5 +23,5 @@ def swap(array, i, min_index):
 arr = [-2, 45, 0, 11, -9,88,-97,-202,747]
 size = len(arr)
 selectionSort(arr, size)
-print('The array after sorting in Ascending Order by selection sort is:')
+print('The array after sorting in Ascending Order by bubble sort is:')
 print(arr)
