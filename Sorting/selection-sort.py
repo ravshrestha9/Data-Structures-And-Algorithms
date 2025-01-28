@@ -5,9 +5,12 @@
 def selectionSort(array, size):
     
     for i in range(size):
+        print(i)
         min_index = i
 
         for j in range(i+1, size):
+            print(j)
+            print("---------------")
             if array[j] < array[min_index]:
                 min_index = j
         
